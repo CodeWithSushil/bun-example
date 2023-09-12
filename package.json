@@ -1,0 +1,8 @@
+{
+  "name": "bun-example",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "^0.7.0"
+  },
+  "type": "module"
+}
